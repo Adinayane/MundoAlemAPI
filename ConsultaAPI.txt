@@ -1,3 +1,7 @@
+BackEnd: MundoAlemAPI
+FrontEnd: manextapi
+
+
 create database mundoAlemapi;
 use mundoAlemapi;
 
